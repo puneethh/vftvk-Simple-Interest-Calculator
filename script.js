@@ -15,7 +15,7 @@ function compute() {
 
 //update the rate value
 function updateRate() {
-    document.getElementById("rate_val").innerHTML = document.getElementById("rat").value;
+    document.getElementById("rate_val").innerHTML = document.getElementById("rate").value;
 }
 
 //Check for positive values
