@@ -13,7 +13,7 @@ function compute() {
 
 }
 
-//update the rate value
+//update the rate value in percent
 function updateRate() {
     document.getElementById("rate_val").innerHTML = document.getElementById("rate").value;
 }
