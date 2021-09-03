@@ -1,5 +1,5 @@
 function compute() {
-    //Get the values and calculate 
+    //Get the values and calculate interest
     var principal = parseFloat(document.getElementById("principal").value);
     var rate = parseFloat(document.getElementById("rate").value);
     var years = parseInt(document.getElementById("years").value);
